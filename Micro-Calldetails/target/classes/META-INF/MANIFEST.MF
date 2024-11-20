@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: REHAN
+Build-Jdk: 21.0.4
+Implementation-Title: Micro-Calldetails
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/Micro-Calldet
+ ails
+Created-By: Maven Integration for Eclipse
+
